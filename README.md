@@ -1,7 +1,7 @@
 
 # Install all important dependencies of react-scripts ,you can run:
 
-npm install react-scripts --save
+###'npm install react-scripts --save'
 
 # Getting Started with Create React App
 
