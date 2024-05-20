@@ -1,3 +1,8 @@
+
+# Install all important dependencies of react-scripts ,you can run:
+
+### `npm install react-scripts --save`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
